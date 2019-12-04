@@ -13,7 +13,7 @@
         "league/csv": "^9.1",
         "friendsofsymfony/ckeditor-bundle": "^1.1",
         "stefandoorn/sitemap-plugin": "^1.0",
-        "sylius/sylius": "^1.4"
+        "sylius/sylius": "^1.4|^1.5|^1.6"
     },
     "require-dev": {
         "behat/behat": "^3.4",
